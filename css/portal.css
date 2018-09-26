@@ -1,0 +1,14 @@
+/* Application Form CSS */
+textarea {
+resize: none;
+}
+.border {
+    padding: 30px;
+}
+.schName {
+    margin-bottom: 0;
+}
+.dist {
+    padding-top: 30px;
+}
+/* End of Application Form CSS */
