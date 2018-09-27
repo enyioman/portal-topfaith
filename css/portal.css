@@ -1,14 +1,74 @@
 /* Application Form CSS */
 textarea {
-resize: none;
+   resize: none;
 }
-.border {
+.content {
+    border: 1px solid #AAA;
+    border-radius: 4px;
     padding: 30px;
 }
 .schName {
     margin-bottom: 0;
 }
 .dist {
-    padding-top: 30px;
+    margin-top: -2px;
 }
 /* End of Application Form CSS */
+
+/* Portal Page CSS */
+.card {
+    border-color: #337ab7;
+    border-radius: 5px;
+}
+.card-header {
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.payBody{
+    border: 1px solid #AAA;
+    border-radius: 4px;
+    padding: 20px 0;
+}
+.payBody2 {
+    border: 1px solid #AAA;
+    border-radius: 4px;
+    padding: 5px;
+}
+.cardBody2 {
+    background-color: #F5F5F5;
+    border: 1px solid #E3E3E3;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    padding: 20px;
+}
+.attention {
+    color: #31708F;
+    margin-bottom: 0;
+}
+.clickOn {
+    background-color: #F5F5F5;
+    border: 1px solid #AAA;
+    border-radius: 4px;
+    border-color: #ddd;
+    padding: 10px;
+}
+.logbtn {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.printbtn {
+    background-color: #337AB7;
+    border-color: #2e6da4;
+    color: #fff;
+}
+/* .upload {
+    position: absolute;
+    padding-bottom: 30px;
+}
+.table {
+    position: absolute;
+    margin-top: 70px;
+} */
+/* End of Portal Page CSS */
